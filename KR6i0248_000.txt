@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 法觀經
+#+DATE: 2015-08-30 20:13:57.657260
+#+PROPERTY: JUAN 0

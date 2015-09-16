@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:13:57.460349
+#+DATE: 2015-08-30 20:13:58.839290
 #+TITLE: 法觀經
 #+PROPERTY: CBETA_ID T15n0611
 #+PROPERTY: ID KR6i0248
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 611
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0248_T_000-0240b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0248_T_001-0240b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.611¶
-
- 《法觀經》¶
+No. 611¶
+《法觀經》¶
 ¶
 西晉月氏國三藏竺法護譯¶
 
@@ -98,7 +97,7 @@ No.611¶
 敗，骨鎖節節解墮。脛脡確政，白髀骨如車¶
 輻。尻骨與脊骨相連，脊與肋骨相連，肩骨¶
 與肘臂手相連，皮革消腐，節節解墮。頸骨與¶
-髑髏相連，肉血消盡，磨磨但有骨。氣出不報¶
+觸髏相連，肉血消盡，磨磨但有骨。氣出不報¶
 為死人，身侹正直不復搖，風去身冷，火去¶
 黃汁從九孔流出，水去死不復食，地去三四¶
 日，色轉正青，膿血從口鼻耳目中出正赤，肌¶
